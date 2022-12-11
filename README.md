@@ -4,7 +4,7 @@ Computer Organization and Assembly Language Programming
 
 ```
 
-    Total Views per Day from 2022-10-14 to 2022-12-10
+    Total Views per Day from 2022-10-14 to 2022-12-11
 
     Repository Views
    14.00  ┼    ╭╮
@@ -22,8 +22,8 @@ Computer Organization and Assembly Language Programming
     2.80  ┼─╮  ││││    │╰─╮         │ │
     1.87  ┤ │  ││││    │  │         │ │
     0.93  ┤ │  ││││╭╮  │  │         │ │
-    0.00  ┤ ╰──╯╰╯╰╯╰──╯  ╰─────────╯ ╰─────────────────────────────
+    0.00  ┤ ╰──╯╰╯╰╯╰──╯  ╰─────────╯ ╰──────────────────────────────
 
-    Chart last updated - Sat Dec 10 23:57:56 2022 UTC
+    Chart last updated - Sun Dec 11 23:58:03 2022 UTC
     
 ```
