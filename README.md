@@ -1,9 +1,10 @@
 # COMP 3350
-- Computer Organization and Assembly Language Programming Projects
-- DISCLAIMER: By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
+COMP 3350 Projects  
+Computer Organization and Assembly Language Programming
+
 ```
 
-        Total Views per Day from 2022-10-14 to 2022-12-14
+        Total Views per Day from 2022-10-14 to 2022-12-15
 
         Repository Views
       14 ┼    ╭╮
@@ -13,16 +14,16 @@
       10 ┤    ││
        9 ┤    ││
        8 ┤    ││
-       7 ┤    ││
-       7 ┤    ││
-       6 ┤    ││
-       5 ┤    ││      ╭╮           ╭╮
-       4 ┤    ││╭╮    ││           │╰╮
-       3 ┼─╮  ││││    │╰─╮         │ │
-       2 ┤ │  ││││    │  │         │ │
-       1 ┤ │  ││││╭╮  │  │         │ │
-       0 ┤ ╰──╯╰╯╰╯╰──╯  ╰─────────╯ ╰─────────────────────────────────
+       7 ┤    ││                                                       ╭
+       7 ┤    ││                                                       │
+       6 ┤    ││                                                       │
+       5 ┤    ││      ╭╮           ╭╮                                  │
+       4 ┤    ││╭╮    ││           │╰╮                                 │
+       3 ┼─╮  ││││    │╰─╮         │ │                                 │
+       2 ┤ │  ││││    │  │         │ │                                 │
+       1 ┤ │  ││││╭╮  │  │         │ │                                 │
+       0 ┤ ╰──╯╰╯╰╯╰──╯  ╰─────────╯ ╰─────────────────────────────────╯
 
-        Chart last updated - Wed Dec 14 23:58:09 2022 UTC
+        Chart last updated - Thu Dec 15 23:57:58 2022 UTC
         
 ```
