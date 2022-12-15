@@ -1,7 +1,6 @@
 # COMP 3350
-COMP 3350 Projects  
-Computer Organization and Assembly Language Programming
-
+- Computer Organization and Assembly Language Programming Projects
+- DISCLAIMER: By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
 ```
 
         Total Views per Day from 2022-10-14 to 2022-12-14
